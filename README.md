@@ -1,1 +1,1 @@
-xtralars.github.io/home
+xtralars.github.io
